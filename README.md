@@ -132,9 +132,6 @@ C • Structs • Vetores • Funções • CRUD • Validação de Dados
 - Cloud Security
 - Python
 - Inteligência Artificial Generativa
-- Linux
-- Redes de Computadores
-- Infraestrutura em Nuvem
 
 ---
 
