@@ -4,14 +4,19 @@
   Estudante de Análise e Desenvolvimento de Sistemas com foco em Cloud Computing, AWS, Infraestrutura e Inteligência Artificial.
 </p>
 
+<p align="center">
+  ☁️ Cloud Computing • AWS • Inteligência Artificial • Infraestrutura
+</p>
+
 ---
 
 ## ☁️ Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- ☁️ Foco em Cloud Computing e AWS
+- ☁️ Foco em Cloud Computing e serviços AWS
 - 🤖 Interesse em Inteligência Artificial Generativa
-- 🔐 Conhecimentos em Infraestrutura, Redes e Segurança
+- 🔐 Conhecimentos em infraestrutura, redes e segurança
+- 🧪 Experiência prática por meio de laboratórios e projetos AWS
 - 📚 Em preparação para a certificação AWS Cloud Practitioner
 - 📍 Petrópolis, Rio de Janeiro, Brasil
 
@@ -19,41 +24,71 @@
 
 ## 🛠️ Minhas Skills
 
-### ☁️ Cloud e AWS
+### ☁️ Cloud Computing e AWS
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
+</p>
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
+  Amazon EC2 • Amazon S3 • AWS Lambda • Amazon RDS • Amazon DynamoDB • Amazon VPC • IAM • CloudWatch • Amazon Bedrock
 </p>
+
+---
 
 ### 💻 Programação e Dados
 
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/>
 </p>
+
+<p>
+  Python • Linguagem C • SQL • Lógica de Programação • Estruturas de Dados
+</p>
+
+---
+
+### ⚙️ Ferramentas e Sistemas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows"/>
+</p>
+
+<p>
+  Git • GitHub • Linux • Windows Server • Visual Studio Code • AWS CLI
+</p>
+
+---
 
 ### 🌐 Infraestrutura e Segurança
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cloud_Security-6A5ACD?style=for-the-badge">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" width="48" height="48" alt="Redes"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows"/>
 </p>
+
+<p>
+  Redes LAN/WAN • VLANs • VPN • Firewall • Active Directory • Wireshark • Segurança da Informação
+</p>
+
+---
 
 ### 🤖 Inteligência Artificial
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Amazon Bedrock"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+</p>
+
 <p>
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Chatbots-00A67E?style=for-the-badge">
+  Amazon Bedrock • Inteligência Artificial Generativa • Agentes de IA • Chatbots • RAG • Prompt Engineering
 </p>
 
 ---
@@ -62,19 +97,41 @@
 
 ### 🤖 AWS Bedrock AgentCore HR Assistant
 
-Assistente virtual de RH desenvolvido com Amazon Bedrock, Knowledge Base, Lambda, DynamoDB e Streamlit.
+Assistente virtual de Recursos Humanos desenvolvido com serviços AWS e Inteligência Artificial Generativa.
+
+**Tecnologias utilizadas:**
+
+Amazon Bedrock • AgentCore • Knowledge Base • AWS Lambda • Amazon DynamoDB • Amazon S3 • Streamlit
+
+---
 
 ### ⚡ AWS Lambda Word Count
 
-Aplicação serverless com Amazon S3, AWS Lambda, Amazon SNS e CloudWatch para contagem automática de palavras.
+Aplicação serverless que realiza a contagem automática de palavras em arquivos enviados ao Amazon S3.
+
+**Tecnologias utilizadas:**
+
+Amazon S3 • AWS Lambda • Amazon SNS • Amazon CloudWatch • Python
+
+---
 
 ### 🌐 AWS EC2 Web Application
 
-Implantação de uma aplicação web utilizando Amazon EC2, Apache e infraestrutura AWS.
+Projeto de implantação de uma aplicação web utilizando uma instância Amazon EC2 e servidor Apache.
+
+**Tecnologias utilizadas:**
+
+Amazon EC2 • Amazon VPC • Security Groups • Apache • Linux
+
+---
 
 ### 🐾 Pet Management System
 
-Sistema CRUD desenvolvido em linguagem C para cadastro e gerenciamento de pets e tutores.
+Sistema CRUD desenvolvido em linguagem C para cadastro e gerenciamento de pets e seus tutores.
+
+**Tecnologias utilizadas:**
+
+Linguagem C • Structs • Vetores • Funções • Validação de Dados
 
 ---
 
@@ -85,18 +142,34 @@ Sistema CRUD desenvolvido em linguagem C para cadastro e gerenciamento de pets e
 - Cloud Security
 - Python
 - Inteligência Artificial Generativa
-- Linux e Redes
+- Linux
+- Redes de Computadores
+- Infraestrutura em Nuvem
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco minha primeira oportunidade na área de Cloud Computing, com foco em AWS, infraestrutura, arquitetura de nuvem e segurança.
+
+Meu objetivo é aplicar os conhecimentos adquiridos em projetos e laboratórios práticos, contribuir com a equipe e continuar evoluindo profissionalmente na área de tecnologia.
 
 ---
 
 ## 📫 Contato
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/jessicafontescloud">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Jéssica_Fontes-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:jessicafontesprofissional@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Entre_em_contato-0078D4?style=plastic&logo=microsoftoutlook&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  Desenvolvendo conhecimentos em tecnologia para construir soluções seguras, escaláveis e inovadoras. ☁️
 </p>
