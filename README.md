@@ -83,48 +83,6 @@ Amazon Bedrock • IA Generativa • Prompt Engineering • RAG • Agentes de I
 
 ---
 
-# 🚀 Projetos em Destaque
-
-## 🤖 AWS Bedrock AgentCore HR Assistant
-
-Assistente virtual de Recursos Humanos desenvolvido utilizando Inteligência Artificial Generativa na AWS.
-
-**Tecnologias**
-
-Amazon Bedrock • AgentCore • Knowledge Base • AWS Lambda • DynamoDB • Amazon S3 • Streamlit
-
----
-
-## ⚡ AWS Lambda Word Count
-
-Aplicação Serverless para contagem automática de palavras utilizando eventos do Amazon S3.
-
-**Tecnologias**
-
-Amazon S3 • AWS Lambda • Amazon SNS • Amazon CloudWatch • Python
-
----
-
-## 🌐 AWS EC2 Web Application
-
-Implantação de uma aplicação Web utilizando infraestrutura AWS.
-
-**Tecnologias**
-
-Amazon EC2 • Amazon VPC • Security Groups • Apache • Linux
-
----
-
-## 🐾 Pet Management System
-
-Sistema CRUD desenvolvido em Linguagem C para gerenciamento de pets e seus tutores.
-
-**Tecnologias**
-
-C • Structs • Vetores • Funções • CRUD • Validação de Dados
-
----
-
 # 📚 Atualmente estudando
 
 - AWS Cloud Practitioner
@@ -162,5 +120,7 @@ Meu objetivo é aplicar na prática os conhecimentos adquiridos em projetos, lab
 <p align="center">
 
 ⭐ Sempre aprendendo, construindo projetos e evoluindo na área de Cloud Computing.
+
+- Thanks for visiting.
 
 </p>
